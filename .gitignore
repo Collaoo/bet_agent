@@ -1,0 +1,18 @@
+# Credenciales
+.env
+certs/
+database/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# Datos grandes (opcional, si quieres subir data)
+# data/historical_data_bundesliga.csv
