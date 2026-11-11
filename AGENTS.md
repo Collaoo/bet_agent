@@ -63,7 +63,6 @@ Sistema de apuestas automáticas que predice resultados de fútbol usando modelo
 python scripts/betfair_agent.py
 
 # Modo real (cuando haya temporada activa)
-python scripts/betfair_agent.py --live --app-key 89QyugmMoH3Y8BA3 --username cristobal.collao95@gmail.com --password Notevasameter1..
 
 # Backtest completo
 python test_models.py
