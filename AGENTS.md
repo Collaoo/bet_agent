@@ -55,12 +55,6 @@ Sistema de apuestas automáticas que predice resultados de fútbol usando modelo
 | Bet365 (B365) | +4.15% | 127 |
 | Pinnacle Closing (PSC) | +1.82% | 55 |
 
-## Conexión Betfair
-- **App Key (Delayed):** `89QyugmMoH3Y8BA3`
-- **Username:** `cristobal.collao95@gmail.com`
-- **Password:** `Notevasameter1..`
-- **Estado:** Login ✅, SportsAPING ✅ (196 eventos), AccountAPING ❌ (Delayed key no tiene acceso)
-- **Problema conocido:** En junio no hay mercados de Bundesliga activos (pretemporada). Arranca en agosto.
 
 ## Cómo ejecutar
 
